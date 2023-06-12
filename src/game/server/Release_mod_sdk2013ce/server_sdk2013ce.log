@@ -1,0 +1,34 @@
+﻿  weapon_karambit.cpp
+  bone_setup.cpp
+  collisionutils.cpp
+  dt_send.cpp
+  dt_utlvector_common.cpp
+  dt_utlvector_send.cpp
+  editor_sendcommand.cpp
+  filesystem_helpers.cpp
+  gamehandle.cpp
+  GameStats_BasicStatsFunctions.cpp
+  h_export.cpp
+  init_factory.cpp
+  interpolatortypes.cpp
+  interval.cpp
+  keyframe.cpp
+  language.cpp
+  map_utils.cpp
+  memoverride.cpp
+  networkvar.cpp
+  randoverride.cpp
+  registry.cpp
+  rope_physics.cpp
+  scratchpad3d.cpp
+  ScratchPadUtils.cpp
+  server_class.cpp
+  sheetsimulator.cpp
+  simple_physics.cpp
+  stringregistry.cpp
+  studio.cpp
+     Creating library .\Release_mod_sdk2013ce\server.lib and object .\Release_mod_sdk2013ce\server.exp
+  server_sdk2013ce.vcxproj -> D:\HL2Karambit\src\game\server\Release_mod_sdk2013ce\server.dll
+  Publishing to ..\..\..\game\mod_sdk2013ce\bin\.
+          1 file(s) copied.
+          1 file(s) copied.
